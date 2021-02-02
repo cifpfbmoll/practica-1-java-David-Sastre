@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
 public class Proyecto1 {
     public static void main (String [] args) {
